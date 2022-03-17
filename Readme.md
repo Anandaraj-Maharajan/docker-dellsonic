@@ -2,7 +2,7 @@
 
 To write and run the Ansible playbooks to automate the switch configuration, Dell enterprise SONiC has contributed wide variety of modules in the Ansible community under 'dellemc.enterprise_sonic' collection. 
 
-There are few basic pre-requisites for Ansible and few modules for successful execution of scripts we write in Ansible. The pre-requisites are captured [here](https://github.com/ansible-collections/dellemc.enterprise_sonic)
+There are few basic pre-requisites for Ansible and few modules for successful execution of scripts we write in Ansible. The pre-requisites are captured [here](https://github.com/ansible-collections/dellemc.enterprise_sonic).
 
 To ease the experience to start with the process of automation, using the Dockerfile, Dell has containerized the necessary pre-requisite install.
 

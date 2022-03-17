@@ -31,3 +31,4 @@ RUN ansible-galaxy collection install dellemc.enterprise_sonic
 WORKDIR /ansible
 
 ENTRYPOINT [ "bash" ]
+
