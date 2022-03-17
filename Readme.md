@@ -27,3 +27,5 @@ After downloading the docker image to local machine, make sure to run the contai
       jinja version = 3.0.3
       libyaml = True
 
+## Important note
+The pre-built docker can be downloaded via docker pull command from [here](https://hub.docker.com/r/anandrajm/ansible)
